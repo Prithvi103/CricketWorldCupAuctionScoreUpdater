@@ -1,0 +1,150 @@
+A Alam	2	Afghanistan
+A Afgan	3	Afghanistan
+D Zadran	4	Afghanistan
+G Naib	5	Afghanistan
+H Hasan	6	Afghanistan
+H Shahidi	7	Afghanistan
+H Zazai	8	Afghanistan
+M Nabi	9	Afghanistan
+M Shahzad	10	Afghanistan
+M Ur Rahman	11	Afghanistan
+N Zadran	12	Afghanistan
+N Ali Zadran	13	Afghanistan
+R Shah	14	Afghanistan
+R Khan	15	Afghanistan
+S Shenwari	16	Afghanistan
+A Finch	17	Australia
+A Carey	18	Australia
+D Warner	19	Australia
+G Maxwell	20	Australia
+J Behrendorff	21	Australia
+K  Richardson	22	Australia
+M Stoinis	23	Australia
+M Starc	24	Australia
+N Coulter-Nile	25	Australia
+N Lyon	26	Australia
+P Cummins	27	Australia
+S Marsh	28	Australia
+S Smith	29	Australia
+U Khawaja	30	Australia
+A Zampa	31	Australia
+L Das	32	Bangladesh
+M Mortaza	33	Bangladesh
+M Mithun	34	Bangladesh
+M Saifuddin	35	Bangladesh
+M Hossain	36	Bangladesh
+M Rahim	37	Bangladesh
+M Rahman	38	Bangladesh
+R Hossain	39	Bangladesh
+S Rahman	40	Bangladesh
+S Al Hasan	41	Bangladesh
+S Sarkar	42	Bangladesh
+T Iqbal	43	Bangladesh
+Mahmudullah	44	Bangladesh
+M Hasan Miraz	45	Bangladesh
+M Saiffudin	46	Bangladesh
+A Rashid	47	England
+B Stokes	48	England
+C Woakes	49	England
+D Willey	50	England
+E Morgan	51	England
+J Roy	52	England
+J Denly	53	England
+J Root	54	England
+J Bairstow	55	England
+J Buttler	56	England
+L Plunkett	57	England
+M Wood	58	England
+M Ali	59	England
+T Curran	60	England
+B Kumar	61	India
+D Karthik	62	India
+H Pandya	63	India
+J Bumrah	64	India
+K Jadhav	65	India
+K Yadav	66	India
+L Rahul	67	India
+M Shami	68	India
+M Dhoni	69	India
+R Jadeja	70	India
+R Sharma	71	India
+S Dhawan	72	India
+V Shankar	73	India
+V Kohli	74	India
+Y Chahal	75	India
+C de Grandhomme	76	New Zealand
+C Munro	77	New Zealand
+H Nicholls	78	New Zealand
+I Sodhi	79	New Zealand
+J Neesham	80	New Zealand
+K Williamson	81	New Zealand
+L Ferguson	82	New Zealand
+M Guptill	83	New Zealand
+M Henry	84	New Zealand
+M Santner	85	New Zealand
+R Taylor	86	New Zealand
+T Southee	87	New Zealand
+T Blundell	88	New Zealand
+T Latham	89	New Zealand
+T Boult	90	New Zealand
+A Ali	91	Pakistan
+B Azam	92	Pakistan
+F Ashraf	93	Pakistan
+F Zaman	94	Pakistan
+H Sohail	95	Pakistan
+H Ali	96	Pakistan
+I Wasim	97	Pakistan
+Imam-ul-Haq	98	Pakistan
+J Khan	99	Pakistan
+M Hafeez	100	Pakistan
+M Hasnain	101	Pakistan
+S Ahmed	102	Pakistan
+S Khan	103	Pakistan
+S Afridi	104	Pakistan
+S Malik	105	Pakistan
+A Markram	106	South Africa
+A Phehlukwayo	107	South Africa
+A Nortje	108	South Africa
+C Morris	109	South Africa
+D Steyn	110	South Africa
+D Miller	111	South Africa
+D Pretorius	112	South Africa
+F Du Plessis	113	South Africa
+H Amla	114	South Africa
+I Tahir	115	South Africa
+J Duminy	116	South Africa
+K Rabada	117	South Africa
+L Ngidi	118	South Africa
+Q de Kock	119	South Africa
+R van der Dussen	120	South Africa
+T Shamsi	121	South Africa
+A Mathews	122	Sri Lanka
+A Fernando	123	Sri Lanka
+D de Silva	124	Sri Lanka
+D Karunaratne	125	Sri Lanka
+I Udana	126	Sri Lanka
+J Mendis	127	Sri Lanka
+J Vandersey	128	Sri Lanka
+K Mendis	129	Sri Lanka
+K Perara	130	Sri Lanka
+L Thirumanne	131	Sri Lanka
+L Malinga	132	Sri Lanka
+M Siriwaranda	133	Sri Lanka
+N Pradeep	134	Sri Lanka
+S Lakmal	135	Sri Lanka
+T Perara	136	Sri Lanka
+A Russell	137	West Indies
+A Nurse	138	West Indies
+C Brathwaite	139	West Indies
+C Gayle	140	West Indies
+D Bravo	141	West Indies
+E Lewis	142	West Indies
+F Allen	143	West Indies
+J Holder	144	West Indies
+K Roach	145	West Indies
+N Pooran	146	West Indies
+O Thomas	147	West Indies
+S Hope	148	West Indies
+S Gabriel	149	West Indies
+S Cottrell	150	West Indies
+S Hetmyer	151	West Indies

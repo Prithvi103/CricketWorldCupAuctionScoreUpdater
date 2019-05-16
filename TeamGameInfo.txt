@@ -1,0 +1,10 @@
+Afghanistan	0
+Australia	0
+Bangladesh	0
+England	0
+India	0
+New Zealand	0
+Pakistan	0
+South Africa	0
+Sri Lanka	0
+West Indies	0
