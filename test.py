@@ -65,7 +65,14 @@ def main():
 		if motm is None:
 			flag = False
 		else:
-			CalcMatch(soup)
+			motm2 = motm.find_all("li")
+			for t in motm2: 
+				if ("PLAYER" in t.text):
+					res=t.text.split(': ')[1].rstrip("\n").rstrip()
+			if res == "TBD":
+				pass
+			else:
+				CalcMatch(soup)
 			i+=1
 	f = open(r'D:\Reports and Data\CricketAutomation\AllGames.txt','wt')
 	for x in range(i,len(matches)):
@@ -341,9 +348,9 @@ def PublishScores():
 
 	creds = None
 
-	if os.path.exists('token.pickle'):
-		with open(r'D:\Reports and Data\CricketAutomation\token.pickle', 'rb') as token:
-			creds = pickle.load(token)
+
+	with open(r'D:\Reports and Data\CricketAutomation\token.pickle', 'rb') as token:
+		creds = pickle.load(token)
 	if not creds or not creds.valid:
 		if creds and creds.expired and creds.refresh_token:
 			creds.refresh(Request())
